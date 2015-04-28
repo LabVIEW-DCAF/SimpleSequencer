@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='windows-1252' standalone='yes'?>
+<MetaData>
+<ProjectTemplate>
+  <Title localize="yes">Sequencer Action Generator</Title>
+  <Description localize="yes">Creates a sequencer action containing a UI, a runtime, and configuration class.</Description>
+  <Filters localize="yes">TBDF:Modules</Filters>
+  <Keywords localize="yes">tag;bus;module;framework;mapping;access;plugin;action;sequencer</Keywords>
+  <LocationPath>template action</LocationPath>
+  <ProjectPath>Template Action.lvproj</ProjectPath>
+  <ListboxImagePath>images/datacomp.png</ListboxImagePath>
+  <DocumentationPath>documentation/component editor documentation.html</DocumentationPath>
+  <CustomVIMode>AfterPage2NoUI</CustomVIMode>
+  <CustomVIPath>scripting/PostCopyScripting.vi</CustomVIPath>
+  <MetaDataClass>scripting/SequencerActionScript.lvclass</MetaDataClass>
+  <SortPriority>300</SortPriority>
+</ProjectTemplate>
+</MetaData>
