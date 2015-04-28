@@ -1,1 +1,2 @@
-vipb	source\blah.vipb	testinstall	upload=platypus
+vipb	Source\Sequencer\Simple Sequencer.vipb	testinstall	upload=platypus
+vipb	Source\Action Sample Project\Simple Sequencer Action Template.vipb	testinstall	upload=platypus
