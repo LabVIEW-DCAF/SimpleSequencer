@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2015-04-28 17:26:27" Creator="bsnover" Comments="" ID="3f345b359afcb90c0f154c9ce2fb45ec">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2015-06-25 13:25:24" Creator="bsnover" Comments="" ID="225ab4f68e78f9c54687a732ded8a97a">
   <Library_General_Settings>
     <Package_File_Name>ni_TBM_SimpleSequencer</Package_File_Name>
-    <Library_Version>1.0.0.5</Library_Version>
+    <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -34,7 +34,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>Fixed a major bug with action IDs not being created properly.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -234,7 +234,7 @@
         <Path>Sequencer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5BFC8A250977006C5DB63267873A8512</GUID>
+      <GUID>DE95B40F4592B7252A61D358D4CC4DBE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -381,7 +381,7 @@
         <Path>Sequencer\simple sequencer api\read sequencer status update.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5ECB85284AE824673B3D3A8314CD1821</GUID>
+      <GUID>B733667E550CBA297C1EEAD3AF1B078F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
