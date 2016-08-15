@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2016-08-15 16:23:31" Creator="bsnover" Comments="" ID="001197d8698545b5f47c3edc72d8fa82">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2016-08-15 16:35:01" Creator="bsnover" Comments="" ID="408799003443f483605b04b6dbedf57e">
   <Library_General_Settings>
     <Package_File_Name>ni_TBM_SimpleSequencer</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -100,7 +100,7 @@
         <Name>Modules</Name>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;vi.lib&gt;\NI\TBM Modules</Path>
+        <Path>&lt;vi.lib&gt;\NI\DCAF\Modules</Path>
       </Additional_Destination>
     </Destinations>
     <Source_Files>
@@ -234,7 +234,7 @@
         <Path>Sequencer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BFF2858C188767E675CEA8EB390AC2FF</GUID>
+      <GUID>B395AD7AF9B7F488EF23CD01CD9CA282</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -381,7 +381,7 @@
         <Path>Sequencer\simple sequencer api\read sequencer status update.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0A8243F8F47472E1089905D456F1EFB1</GUID>
+      <GUID>6ECBB348352039CA62946C696C3804CC</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
